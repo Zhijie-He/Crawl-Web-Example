@@ -18,3 +18,5 @@ Preparation Step.
   <a href="http://1.116.134.216/scraping-real-world-housing-website/"> Blog </a>
 
 2. 51 job
+
+<img src="http://www.he-zhijie.com/6.job%20list.png" />
