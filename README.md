@@ -15,4 +15,5 @@ Preparation Step.
   hement is a simple crawl web example. the target website is https://www.hemnet.se/kommande/bostader?location_ids%5B%5D=17745&page=3
   As we can see from the above link. The core code file is hemnet.py which is located in \hemnet\hemnet\spiders path.
    
-  Blog Link:
+  <a href="http://1.116.134.216/scraping-real-world-housing-website/"> Blog </a>
+
